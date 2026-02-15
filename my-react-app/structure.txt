@@ -1,0 +1,10 @@
+src/
+├── components/
+│   ├── ProfileHeader.jsx
+│   ├── SectionCard.jsx
+│   └── FinancialTable.jsx
+├── data/
+│   └── profileData.js
+├── App.js
+├── App.css
+└── index.js (default file)
